@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: url(a.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+}
+
+.heading {
+	display: flex;
+}
+
+.smiley {
+	color: orange;
+	padding-left: 10px;
+	padding-top: 3px;
+}
+
+.anchors {
+	padding-top: 25px;
+	padding-left: 590px;
+}
+
+.edit {
+	color: orange;
+	padding: 10px;
+	padding-left: 30px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+
+.anchors a:hover {
+	color: white;
+}
+
+.travelon {
+	color: white;
+	padding-left: 420px;
+	padding-top: 120px;
+	font-size: 100px;
+	font-family: cursive;
+}
+
+.buttons {
+	padding-left: 510px;
+	padding-top: 5px;
+}
+
+.watch,.watch1 {
+	background: transparent;
+	border: 1px solid white;
+	padding: 7px;
+	transition: .3s ease;
+}
+
+.buttons a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.buttons a:hover {
+	color: black;
+	background: orange;
+}
+
+.center {
+
+	/* background-color: black; */
+	padding-top: 100px;
+	padding-left: 150px;
+}
+
+.txt-search {
+	/* margin-top: 200px; */
+	/* background-color: black; */
+	/* padding-top: 50px; */
+	padding-left: 30px;
+	padding-top: 25px;
+}
+.typtext{
+	border:2px solid orange;
+	height:25px;
+	background:transparent;
+	color:white;
+	border-top-left-radius:7px;
+	border-bottom-left-radius:7px;
+}
+button{
+	background-color:orange;
+	border-top-right-radius:7px;
+	border-bottom-right-radius:7px;
+	height:30px;
+	width:60px;
+	border:1px solid orange;
+}
+button a{
+	text-decoration:none;
+	font-weight:bold;
+	color:black;
+}
+button:hover{
+	background-color:white;
+}
+

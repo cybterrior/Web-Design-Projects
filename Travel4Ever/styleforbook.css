@@ -1,0 +1,80 @@
+body{
+    background: url(https://wallpapers-hub.art/wallpaper-images/340452.png);
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}
+.contplace{
+    /* background-color: black; */
+    width: auto;
+    height: auto;
+    display: flex;
+    padding: 20px;
+}
+#same{
+    padding-left: 20px;
+    height: 200px;
+    width: auto;
+}
+.bangkok h3{
+    color: white;
+    
+    padding-left:  70px;
+}
+.barcelona h3{
+    color: white;
+    
+    padding-left:  70px;
+}
+.panama h3{
+    color: white;
+    
+    padding-left:  70px;
+}
+.hongkong h3{
+    color: white;
+    padding-top: 15px;
+    padding-left:  70px;
+}
+.rome h3{
+    color: white;
+    
+    padding-left:  70px;
+    padding-top: 15px;
+}
+.trend{
+    padding-left: 730px;
+    color:orange;
+    font-family: cursive;
+    font-size: 50px;
+}
+.spots{
+    color: orange;
+    padding-left: 500px;
+    font-family: cursive;
+    font-size: 40px;
+}
+table,tr,th,td{
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+th{
+    color: white;
+    font-size: 15px;
+}
+.tablee{
+    padding-left:640px;
+}
+td a{
+    color: orange;
+    text-decoration: none;
+}
+td a:hover{
+    color: white;
+}
+td{
+    color: white;
+}
+tr,th,td{
+    padding: 10px;
+}

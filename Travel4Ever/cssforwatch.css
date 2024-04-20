@@ -1,0 +1,33 @@
+body{
+    background: url(https://wallpapers-hub.art/wallpaper-images/340452.png);
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}
+.image{
+	margin-left:580px;
+	border-radius:30px;
+	width:500px;
+}
+.places{
+	
+	display:flex;
+	height:50px;
+}
+.place1{
+	color:white;
+	padding-left:100px;
+}
+.place2{
+	color:white;
+	padding-left:1000px;
+	
+}
+.iframe1{
+	border-radius:30px;
+	
+}
+.iframe2{
+	border-radius:30px;
+	
+}

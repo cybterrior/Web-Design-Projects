@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(a.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    font-family: sans-serif;
+}
+
+.navbar{
+    width: 95%;
+    height: auto;
+    margin-left: 30px;
+}
+.logo{
+    color: orange;
+    padding-top: .6%;
+    font-size: 40px;
+    font-family: cursive;
+    float: left;
+    cursor: pointer;
+}
+.menu{
+    width: 700px;
+    height: 70px;
+    float: left;
+}
+ul{
+    float: left;
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 14%;
+}
+ul li{
+    list-style: none;
+    margin-left: 60px;
+    font-size: 16px;
+}
+ul li a{
+    text-decoration: none;
+    color: orange;
+    font-family: Arial;
+    font-weight: bold;
+    transition: .3s ease;
+}
+ul li a:hover{
+    color: white;
+}
+.search-box{
+    width:330px;
+    float:right;
+    margin-top: 25px;
+    margin-right: 150px;
+}
+.search-txt{
+    font-family: 'Times New Roman', Times, serif;
+    width:200px;
+    height: 40px;
+    background:transparent;
+    border: 1px solid orange;
+    color: white;
+    border-right: none;
+    font-size: 15px;
+    /* float: left; */
+    /* padding: 10px; */
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    font-weight: bold;
+}
+.search-btn{
+    width: 20%;
+    height: 40px;
+    background-color: orange;
+    border: 2px solid orange;
+    font-weight: bold;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    /* padding-left: px; */
+}
+.anchor{
+    text-decoration: none;
+}
+button:hover{
+    background-color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+ }
+.title h1{
+    cursor: pointer;
+    font-family: cursive;
+    color: white;
+    font-size: 85px;
+
+}
+
+.button{
+    position: absolute;
+    top: 51%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.btn{
+    color: white;
+    padding: 5px 20px;
+    font-size: 18px;
+    text-decoration: none;
+    border: 1px solid white;
+    transition: .3s ease;
+}
+
+.btn:hover{
+    background-color: orange;
+    color: black    ;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
